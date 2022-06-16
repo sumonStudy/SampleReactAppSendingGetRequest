@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+###### Details to setup the application in local
+Node version used to develop this POC - v16.15.1
+NPM version used to develop this POC - 8.11.0
+
+Step 1: Run the command from the physical path of your terminal where you have cloned this Repo.
+        This will create a node_modules in your application build path
+        > npm install
+
+Step 2: Run the command to start the application in your default browser in your loca machine.
+        > npm start
+        OR kindly open your browser and run the URL http://localhsot:3000 after your application run is live in your terminal        
