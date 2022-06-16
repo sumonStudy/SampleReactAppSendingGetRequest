@@ -1,0 +1,14 @@
+.div-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem;
+    margin: 1rem 155px;
+    background-color: #4b4b4b;
+  }
+
+  .label-loading {
+    font-size: 15px;
+    align-items: center;
+    margin-left: 30%;
+  }
